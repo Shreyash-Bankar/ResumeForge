@@ -2,7 +2,7 @@
 
 Create Professional Resumes with LaTeX Precision
 
-**[[Live Demo →]([your-demo-link](https://resumeforge-eight.vercel.app/))](https://resumegenapp.vercel.app/)**  
+**[[Live Demo →]([your-demo-link](https://resumeforge-eight.vercel.app/))](https://resumeforge-eight.vercel.app/)**  
 
 `Free to use` • `No signup required` • `Instant download`
 
@@ -57,7 +57,7 @@ This project was bootstrapped with Create React App and provides a real-time, we
 ## Installation
 
 ### Clone the repository
-git clone https://github.com/prakhar3125/ResumeForge.git
+git clone https://github.com/Shreyash-Bankar/ResumeForge.git
 
 ### Navigate to the project directory
 cd ResumeForge
