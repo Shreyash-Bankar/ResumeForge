@@ -2,7 +2,7 @@
 
 Create Professional Resumes with LaTeX Precision
 
-**[[Live Demo →]([your-demo-link](https://resumegenapp.vercel.app/))](https://resumegenapp.vercel.app/)**  
+**[[Live Demo →]([your-demo-link](https://resumeforge-eight.vercel.app/))](https://resumegenapp.vercel.app/)**  
 
 `Free to use` • `No signup required` • `Instant download`
 
@@ -107,7 +107,7 @@ The app is optimized for deployment on various platforms:
 
 Join thousands of professionals who have successfully landed their dream jobs with ResumeForge.
 
-**[Start Creating Your Resume →]([your-app-link](https://resumegenapp.vercel.app/))**
+**[Start Creating Your Resume →]([your-app-link](https://resumeforge-eight.vercel.app/))**
 
 *No credit card required • Free forever • Download instantly*
 
@@ -121,11 +121,7 @@ Join thousands of professionals who have successfully landed their dream jobs wi
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🤝 Contributing
 
@@ -140,5 +136,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <div align="center">
-  <strong>Made by Prakhar Sinha</strong>
+  <strong>Made by Shreyash Bankar</strong>
 </div>
